@@ -1,4 +1,4 @@
-Circuit: * E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\ece331-labs\lab2-sims\nmos_cascode_current_mirror_dc_out_swing.asc
+Circuit: * C:\users\pranshumalik14\My Documents\academics\ece331-labs\lab2-sims\nmos_cascode_current_mirror_dc_out_swing.asc
 
 Model "ald1101": Oxide thickness thinner than recommended for a level 2 MOSFET.
 Instance "m3": Length shorter than recommended for a level 2 MOSFET.
@@ -6,8 +6,8 @@ Instance "m2": Length shorter than recommended for a level 2 MOSFET.
 Instance "m1": Length shorter than recommended for a level 2 MOSFET.
 Vo: Missing value, assumed 0V @ DC
 
-Date: Mon Oct 07 15:36:04 2019
-Total elapsed time: 0.304 seconds.
+Date: Mon Oct 07 22:14:59 2019
+Total elapsed time: 0.099 seconds.
 
 tnom = 27
 temp = 27
@@ -20,6 +20,6 @@ rejected = 0
 matrix size = 14
 fillins = 0
 solver = Normal
-Matrix Compiler1: 804 bytes object code size  0.7/0.4/[0.3]
-Matrix Compiler2: 1.08 KB object code size  0.4/0.6/[0.4]
+Matrix Compiler1: 804 bytes object code size  0.9/0.6/[0.6]
+Matrix Compiler2: 1.08 KB object code size  0.6/0.6/[0.6]
 
