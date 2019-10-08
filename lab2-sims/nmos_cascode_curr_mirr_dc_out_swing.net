@@ -1,0 +1,15 @@
+* E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\ece331-labs\lab2-sims\nmos_cascode_curr_mirr_dc_out_swing.asc
+M1 N005 N005 0 0 ALD1101 W=1.379e-3 L=1E-6
+M2 N004 N005 0 0 ALD1101 W=1.379e-3 L=1E-6
+M3 N001 N003 N004 N004 ALD1101 W=1.379e-3 L=1E-6
+R1 N002 N005 3.6225913k
+V1 N002 0 5
+Vb N003 0 2.0448
+Vo N001 0
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\User\Documents\LTspiceXVII\lib\cmp\standard.mos
+.dc Vo 0 5 0.015
+.lib ECE331_354.lib
+.backanno
+.end
