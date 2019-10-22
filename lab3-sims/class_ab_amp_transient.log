@@ -1,24 +1,24 @@
-Circuit: * Z:\home\pranshumalik14\Documents\academics\ece331-labs\lab3-sims\class_ab_amp_transient.asc
+Circuit: * E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\ece331-labs\lab3-sims\class_ab_amp_transient.asc
 
 Model "ald1102": Oxide thickness thinner than recommended for a level 2 MOSFET.
 Instance "m2": Length shorter than recommended for a level 2 MOSFET.
 Instance "m1": Length shorter than recommended for a level 2 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Mon Oct 21 23:47:14 2019
-Total elapsed time: 0.142 seconds.
+Date: Tue Oct 22 00:11:30 2019
+Total elapsed time: 0.653 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 6511
-traniter = 6477
+totiter = 6512
+traniter = 6478
 tranpoints = 2408
 accept = 1676
 rejected = 732
 matrix size = 40
 fillins = 11
 solver = Normal
-Matrix Compiler1: 2.65 KB object code size  1.5/0.8/[0.7]
-Matrix Compiler2: off  [0.8]/1.0/0.9
+Matrix Compiler1: 2.65 KB object code size  2.2/1.2/[0.7]
+Matrix Compiler2: off  [1.0]/1.8/1.3
 
