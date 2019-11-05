@@ -1,4 +1,4 @@
-Circuit: * Z:\home\pranshumalik14\Documents\academics\ece331-labs\lab4-sims\differential-op-amp-ac-analysis.asc
+Circuit: * E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\ece331-labs\lab4-sims\differential-op-amp-ac-analysis.asc
 
 Model "ald1102": Oxide thickness thinner than recommended for a level 2 MOSFET.
 Instance "m6": Length shorter than recommended for a level 2 MOSFET.
@@ -10,8 +10,8 @@ Instance "m2": Length shorter than recommended for a level 2 MOSFET.
 Instance "m1": Length shorter than recommended for a level 2 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Mon Nov 04 19:21:29 2019
-Total elapsed time: 0.106 seconds.
+Date: Mon Nov 04 19:36:45 2019
+Total elapsed time: 0.288 seconds.
 
 tnom = 27
 temp = 27
@@ -24,6 +24,6 @@ rejected = 0
 matrix size = 24
 fillins = 6
 solver = Normal
-Matrix Compiler1: 1.86 KB object code size  1.1/0.7/[0.7]
-Matrix Compiler2: 2.24 KB object code size  0.7/0.8/[0.7]
+Matrix Compiler1: 1.86 KB object code size  0.8/0.5/[0.3]
+Matrix Compiler2: off  [0.4]/0.6/0.5
 

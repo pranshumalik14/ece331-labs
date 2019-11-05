@@ -1,4 +1,4 @@
-Circuit: * Z:\home\pranshumalik14\Documents\academics\ece331-labs\lab4-sims\differential-op-amp-out-swing.asc
+Circuit: * E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\ece331-labs\lab4-sims\differential-op-amp-out-swing.asc
 
 Model "ald1102": Oxide thickness thinner than recommended for a level 2 MOSFET.
 Instance "m6": Length shorter than recommended for a level 2 MOSFET.
@@ -10,8 +10,8 @@ Instance "m2": Length shorter than recommended for a level 2 MOSFET.
 Instance "m1": Length shorter than recommended for a level 2 MOSFET.
 V2: Missing value, assumed 0V @ DC
 
-Date: Mon Nov 04 19:27:07 2019
-Total elapsed time: 0.155 seconds.
+Date: Mon Nov 04 19:39:41 2019
+Total elapsed time: 0.827 seconds.
 
 tnom = 27
 temp = 27
@@ -24,6 +24,6 @@ rejected = 0
 matrix size = 24
 fillins = 6
 solver = Normal
-Matrix Compiler1: 1.86 KB object code size  1.1/0.7/[0.6]
-Matrix Compiler2: 2.24 KB object code size  0.7/0.8/[0.6]
+Matrix Compiler1: 1.86 KB object code size  1.5/0.8/[0.5]
+Matrix Compiler2: 2.24 KB object code size  0.8/1.0/[0.5]
 
