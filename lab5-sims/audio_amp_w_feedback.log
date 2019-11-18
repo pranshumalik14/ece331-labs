@@ -1,0 +1,46 @@
+Circuit: * Z:\home\pranshumalik14\Documents\academics\ece331\ece331-labs\lab5-sims\audio_amp_w_feedback.asc
+
+WARNING: Less than two connections to node X2:V2.  This node is used by R:X2:4.
+WARNING: Less than two connections to node X2:V1.  This node is used by R:X2:5.
+Model "ald1101": Oxide thickness thinner than recommended for a level 2 MOSFET.
+Instance "m:x1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:x1:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:x1:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:x1:3": Length shorter than recommended for a level 2 MOSFET.
+Model "ald1102": Oxide thickness thinner than recommended for a level 2 MOSFET.
+Instance "m:x1:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:x1:1": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+.step r=1.5
+.step r=250
+.step r=500
+
+Date: Mon Nov 18 18:28:14 2019
+Total elapsed time: 0.369 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4760
+traniter = 4725
+tranpoints = 1853
+accept = 1598
+rejected = 255
+matrix size = 59
+fillins = 32
+solver = Normal
+Matrix Compiler1: 5.21 KB object code size  3.2/2.4/[1.1]
+Matrix Compiler2: off  [1.5]/1.8/1.9
+
