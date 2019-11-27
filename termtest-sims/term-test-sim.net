@@ -1,0 +1,16 @@
+* E:\1. Undergraduate Studies\1. Course Materials\Year_3_Semester_1\ECE331\term-test-sim.asc
+M1 N002 P001 N004 0 IDEAL_NMOS W=1.379e-3 L=1E-6
+Rsource N004 0 20k
+RD N001 N002 8k
+Ro N002 N004 50k
+RS P001 N003 10k
+VS N003 0
+VDD N001 0 5
+CL N004 0 4.19µ
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\User\Documents\LTspiceXVII\lib\cmp\standard.mos
+.lib ECE331_354.lib
+.dc VS 0 5 0.001
+.backanno
+.end
